@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192" role="img" aria-label="Treat Yourself icon">
+  <defs>
+    <linearGradient id="bg" x1="18" y1="10" x2="176" y2="182" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8DCE4"/>
+      <stop offset="0.48" stop-color="#DCCBFF"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="petal" x1="52" y1="42" x2="142" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFF7ED"/>
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="48" fill="url(#bg)"/>
+  <circle cx="148" cy="44" r="17" fill="#FFF7D6" opacity="0.86"/>
+  <circle cx="48" cy="55" r="8" fill="#FFFFFF" opacity="0.7"/>
+  <path d="M96 150C70 131 56 109 56 78c23 5 37 19 40 43 4-24 17-38 40-43 0 31-14 53-40 72Z" fill="url(#petal)" opacity="0.96"/>
+  <path d="M96 128C76 113 67 95 69 70c17 6 25 19 27 39 2-20 10-33 27-39 2 25-7 43-27 58Z" fill="#F4C4D1" opacity="0.88"/>
+  <path d="M96 112C82 94 81 75 96 50c15 25 14 44 0 62Z" fill="#8B5CF6" opacity="0.92"/>
+  <path d="M48 143c26 15 70 17 96 0" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" opacity="0.72"/>
+</svg>
